@@ -28,6 +28,7 @@
         <ul>
             <li><strong>Ames_Housing_Project_1.ipynb</strong>: Jupyter notebook containing the analysis and visualizations.</li>
             <li><strong>Ames_Housing_Subset.csv</strong>: CSV file containing the subset of the Ames Housing dataset.</li>
+            <li><strong>Ames_Housing_Subset_Feature_Description.txt</strong>: Text file containing descriptions of the features in the dataset.</li>
         </ul>
         <h2>Analysis</h2>
         <h3>Importing Libraries</h3>
