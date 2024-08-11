@@ -1,6 +1,6 @@
 <body>
     <div class="container">
-        <h1>Ames Housing Data Analysis</h1>
+        <h1>Ames Housing Dataset: Key Factors Affecting Prices</h1>
         <p>This repository contains the analysis of the Ames Housing dataset. The project aims to explore and analyze the housing data to uncover insights and trends.</p>
         <h2>Problem Statement</h2>
         <p>The goal of this project is to analyze the Ames Housing dataset to identify key factors affecting house prices. By understanding these factors, we can provide actionable insights for stakeholders in the real estate market, such as home buyers, sellers, and real estate agents.</p>
